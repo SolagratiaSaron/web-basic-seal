@@ -1,0 +1,27 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    color: lightcoral;
+}
+table {
+    background-color: whitesmoke;
+    color: salmon;
+}
+
+input {
+    color: black;
+    background-color: rgb(196, 151, 173)
+}
+
+h2  {
+    color: whitesmoke;
+}
+p {
+    color: aliceblue;
+}
+
+h3 {
+    color: antiquewhite;
+}
